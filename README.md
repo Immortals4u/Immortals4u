@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on Amazon, Tcs and all others like google.
-- 📫 How to reach me ...
+- 📫 How to reach me (whatsapp no. 9306258035)
 
 <!doctype html>
 <html><body>
